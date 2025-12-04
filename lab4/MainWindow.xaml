@@ -1,0 +1,82 @@
+﻿<Window x:Class="WpfTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Завдання WPF" Height="1000" Width="600">
+
+    <ScrollViewer>
+        <StackPanel Margin="10" Orientation="Vertical" HorizontalAlignment="Center" >
+
+            <!-- ====== Пункт 1 ====== -->
+            <TextBlock FontWeight="Bold" Text="1. Привіт / До побачення" Margin="0,10"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5">
+                <Button Name="BtnPrivit" Content="Привіт" Width="100" Margin="5" Click="BtnPrivit_Click"/>
+                <Button Name="BtnDoPobachennya" Content="До побачення" Width="100" Margin="5" Click="BtnDoPobachennya_Click"/>
+            </StackPanel>
+            <Label Name="LblStatus" Content="Початок роботи" HorizontalAlignment="Center" Margin="0,5"/>
+
+            <!-- ====== Пункт 2 ====== -->
+            <TextBlock FontWeight="Bold" Text="2. Сховати / Показати TextBlock" Margin="0,20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5">
+                <Button Content="Сховати" Width="100" Margin="5" Click="BtnSkhovaty_Click"/>
+                <Button Content="Показати" Width="100" Margin="5" Click="BtnPokazaty_Click"/>
+            </StackPanel>
+            <TextBlock Name="TxtBlockExample" Text="Цей текст можна приховати / показати" FontSize="14" HorizontalAlignment="Center" Margin="0,5"/>
+
+            <!-- ====== Пункт 3 ====== -->
+            <TextBlock FontWeight="Bold" Text="3. Приховати / Показати / Очистити TextBox" Margin="0,20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5">
+                <Button Content="Приховати" Width="100" Margin="5" Click="BtnHideTextBox_Click"/>
+                <Button Content="Показати" Width="100" Margin="5" Click="BtnShowTextBox_Click"/>
+                <Button Content="Очистити" Width="100" Margin="5" Click="BtnClearTextBox_Click"/>
+            </StackPanel>
+            <TextBox Name="TxtBoxInput" Width="300" Margin="0,5"/>
+
+            <!-- ====== Пункт 4 ====== -->
+            <TextBlock FontWeight="Bold" Text="4. Гра: приховати всі кнопки" Margin="0,20"/>
+            <WrapPanel Name="GamePanel" HorizontalAlignment="Center" Margin="0,5">
+                <Button Content="Червона" Background="Red" Width="100" Height="50" Margin="5" Click="GameButton_Click"/>
+                <Button Content="Синя" Background="Blue" Foreground="White" Width="100" Height="50" Margin="5" Click="GameButton_Click"/>
+                <Button Content="Зелена" Background="Green" Width="100" Height="50" Margin="5" Click="GameButton_Click"/>
+                <Button Content="Жовта" Background="Yellow" Width="100" Height="50" Margin="5" Click="GameButton_Click"/>
+                <Button Content="Фіолетова" Background="Purple" Foreground="White" Width="100" Height="50" Margin="5" Click="GameButton_Click"/>
+            </WrapPanel>
+
+            <!-- ====== Пункт 5 ====== -->
+            <TextBlock FontWeight="Bold" Text="5. Фунти -> Кілограми" Margin="0,20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5">
+                <TextBox Name="TxtPounds" Width="100" Margin="5"/>
+                <Button Content="Конвертувати" Width="120" Margin="5" Click="BtnConvert_Click"/>
+                <TextBlock Name="TxtKgResult" Width="150" Margin="5" VerticalAlignment="Center"/>
+            </StackPanel>
+
+             <!--====== Пункт 6 ======-->
+            <TextBlock FontWeight="Bold" Text="6. Кнопки 2/3 ширини" Margin="0,20"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <WrapPanel Grid.Column="0" Name="ColorButtonsPanel" HorizontalAlignment="Stretch" Margin="0,5">
+                    <Button Content="Navy" Background="Gainsboro" Foreground="Navy" Margin="2" Width="100"/>
+                    <Button Content="Blue" Background="Gainsboro" Foreground="Blue" Margin="2" Width="100"/>
+                    <Button Content="Aqua" Background="Gainsboro" Foreground="Aqua" Margin="2" Width="100"/>
+                    <Button Content="Teal" Background="Gainsboro" Foreground="Teal" Margin="2" Width="100"/>
+                    <Button Content="Olive" Background="Gainsboro" Foreground="Olive" Margin="2" Width="100"/>
+                    <Button Content="Green" Background="Gainsboro" Foreground="Green" Margin="2" Width="100"/>
+                    <Button Content="Lime" Background="Gainsboro" Foreground="Lime" Margin="2" Width="100"/>
+                    <Button Content="Yeelow" Background="Gainsboro" Foreground="Yellow" Margin="2" Width="100"/>
+                    <Button Content="Orange" Background="Gainsboro" Foreground="Orange" Margin="2" Width="100"/>
+                    <Button Content="Red" Background="Gainsboro" Foreground="Red" Margin="2" Width="100"/>
+                    <Button Content="Maroon" Background="Gainsboro" Foreground="Maroon" Margin="2" Width="100"/>
+                    <Button Content="Funchsia" Background="Gainsboro" Foreground="Fuchsia" Margin="2" Width="100"/>
+                    <Button Content="Purple" Background="Gainsboro" Foreground="Purple" Margin="2" Width="100"/>
+                    <Button Content="Black" Background="Gainsboro" Foreground="Black" Margin="2" Width="100"/>
+                    <Button Content="Silver" Background="Gainsboro" Foreground="Silver" Margin="2" Width="100"/>
+                    <Button Content="Gray" Background="Gainsboro" Foreground="Gray" Margin="2" Width="100"/>
+                    <Button Content="White" Background="Gainsboro" Foreground="White" Margin="2" Width="100"/>
+                </WrapPanel>
+            </Grid>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
+
