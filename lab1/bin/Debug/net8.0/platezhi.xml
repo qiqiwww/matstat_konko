@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlatizh xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Platizh>
+    <RozRahPlat>253029900000</RozRahPlat>
+    <RozRahOtr>600700000026</RozRahOtr>
+    <Data />
+    <Suma>3245256</Suma>
+  </Platizh>
+  <Platizh>
+    <RozRahPlat>150987234065</RozRahPlat>
+    <RozRahOtr>800123456789</RozRahOtr>
+    <Data />
+    <Suma>8342655</Suma>
+  </Platizh>
+  <Platizh>
+    <RozRahPlat>555123456789</RozRahPlat>
+    <RozRahOtr>482951736184</RozRahOtr>
+    <Data />
+    <Suma>6123784</Suma>
+  </Platizh>
+  <Platizh>
+    <RozRahPlat>888999000111</RozRahPlat>
+    <RozRahOtr>671244598712</RozRahOtr>
+    <Data />
+    <Suma>8452197</Suma>
+  </Platizh>
+  <Platizh>
+    <RozRahPlat>482951736184</RozRahPlat>
+    <RozRahOtr>150987234065</RozRahOtr>
+    <Data />
+    <Suma>7215489</Suma>
+  </Platizh>
+</ArrayOfPlatizh>
