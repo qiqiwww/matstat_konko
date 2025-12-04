@@ -1,0 +1,14 @@
+D:\UN\СМООП\ЛБ\lab3.1\bin\Debug\net8.0\lab3.1.exe
+D:\UN\СМООП\ЛБ\lab3.1\bin\Debug\net8.0\lab3.1.deps.json
+D:\UN\СМООП\ЛБ\lab3.1\bin\Debug\net8.0\lab3.1.runtimeconfig.json
+D:\UN\СМООП\ЛБ\lab3.1\bin\Debug\net8.0\lab3.1.dll
+D:\UN\СМООП\ЛБ\lab3.1\bin\Debug\net8.0\lab3.1.pdb
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\lab3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\lab3.1.AssemblyInfoInputs.cache
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\lab3.1.AssemblyInfo.cs
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\lab3.1.csproj.CoreCompileInputs.cache
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\lab3.1.dll
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\refint\lab3.1.dll
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\lab3.1.pdb
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\lab3.1.genruntimeconfig.cache
+D:\UN\СМООП\ЛБ\lab3.1\obj\Debug\net8.0\ref\lab3.1.dll

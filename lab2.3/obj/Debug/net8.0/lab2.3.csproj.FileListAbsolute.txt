@@ -1,0 +1,14 @@
+D:\UN\СМООП\ЛБ\lab2.3\bin\Debug\net8.0\lab2.3.exe
+D:\UN\СМООП\ЛБ\lab2.3\bin\Debug\net8.0\lab2.3.deps.json
+D:\UN\СМООП\ЛБ\lab2.3\bin\Debug\net8.0\lab2.3.runtimeconfig.json
+D:\UN\СМООП\ЛБ\lab2.3\bin\Debug\net8.0\lab2.3.dll
+D:\UN\СМООП\ЛБ\lab2.3\bin\Debug\net8.0\lab2.3.pdb
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\lab2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\lab2.3.AssemblyInfoInputs.cache
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\lab2.3.AssemblyInfo.cs
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\lab2.3.csproj.CoreCompileInputs.cache
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\lab2.3.dll
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\refint\lab2.3.dll
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\lab2.3.pdb
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\lab2.3.genruntimeconfig.cache
+D:\UN\СМООП\ЛБ\lab2.3\obj\Debug\net8.0\ref\lab2.3.dll
