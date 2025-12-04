@@ -1,0 +1,14 @@
+D:\UN\СМООП\ЛБ\lab3.3\bin\Debug\net8.0\lab3.3.exe
+D:\UN\СМООП\ЛБ\lab3.3\bin\Debug\net8.0\lab3.3.deps.json
+D:\UN\СМООП\ЛБ\lab3.3\bin\Debug\net8.0\lab3.3.runtimeconfig.json
+D:\UN\СМООП\ЛБ\lab3.3\bin\Debug\net8.0\lab3.3.dll
+D:\UN\СМООП\ЛБ\lab3.3\bin\Debug\net8.0\lab3.3.pdb
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\lab3.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\lab3.3.AssemblyInfoInputs.cache
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\lab3.3.AssemblyInfo.cs
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\lab3.3.csproj.CoreCompileInputs.cache
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\lab3.3.dll
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\refint\lab3.3.dll
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\lab3.3.pdb
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\lab3.3.genruntimeconfig.cache
+D:\UN\СМООП\ЛБ\lab3.3\obj\Debug\net8.0\ref\lab3.3.dll
